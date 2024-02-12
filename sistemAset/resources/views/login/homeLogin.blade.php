@@ -75,7 +75,7 @@
             <span class="breakLine"></span>
             <button class="btnGoogleSI" >
                 <a href="auth/google" >
-                    <img class="Google-si" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png" alt="Sign-in Google" >
+                    <img class="Google-si" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/800px-Google_%22G%22_logo.svg.png" alt="Sign-in Google" >
                     <div class="btnLabel"> Masuk dengan Google </div>
                 </a>
             </button>
